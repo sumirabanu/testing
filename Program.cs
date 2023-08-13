@@ -1,3 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Kicha kora asur ");
+Console.WriteLine("I am in chitral ");
 
